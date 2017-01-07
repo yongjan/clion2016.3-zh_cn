@@ -1,17 +1,17 @@
-# clion2016.3-zh_cn
-	����IDE Clion 2016.3�����ķ���
+# Clion2016.3-zh_cn
+	这是IDE Clion 2016.3的中文翻译
 
-# �÷���
-## ��ʽһ��
-	1. �ҵ����Clion2016.3�İ�װĿ¼�µ�libĿ¼��
-	2. ��resources_en.jar�ļ����ݣ�����������
-	3. ����resources_cn.jar�ļ����ŵ�libĿ¼�£�����Clion����
-		���߸��ǵ�resources_en.jar�ļ����ǵ��ȱ��ݣ���
+# 用法：
+## 方式一：
+	1. 找到你的Clion2016.3的安装目录下的lib目录；
+	2. 将<code>resources_en.jar</code>文件备份（重命名）；
+	3. 下载resources_cn.jar文件，放到lib目录下，启动Clion即可
+		或者覆盖掉resources_en.jar文件（记得先备份）。
 
-## ��ʽ����
-	1. ʹ��ѹ��/��ѹ�������������ѹ����ClionĿ¼�µ�libĿ¼�µ�resources_en.jar�ļ���
-	2. ����ĿĿ¼�µ��ļ��ϵ��򿪵��ļ��У��滻��ͬ�����ļ��к��ļ����ǵñ���ԭ�ļ��������ɡ�
+## 方式二：
+	1. 使用压缩/解压缩软件（比如好压）打开Clion目录下的lib目录下的resources_en.jar文件；
+	2. 将项目目录下的文件拖到打开的文件中，替换掉同名的文件夹和文件（记得备份原文件），即可。
 
 
-# ע�⣺
-�����汾������δ���ԣ���֪���Ƿ���ã�����
+# 注意：
+其他版本的软件未测试，不知道是否可用！！！
